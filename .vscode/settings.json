@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "string_view": "cpp"
+    },
+    "clang.cxxflags": [
+        "-std=c++1z"
+    ]
+}

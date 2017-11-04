@@ -1,0 +1,4 @@
+build/
+.directory
+.cmaketools.json
+c_cpp_properties.json
